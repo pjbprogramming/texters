@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a2c3ba7fdd38ef83cc0f79b32d8ed06b",
+    "revision": "e7b1d1f1847f17b8a97eeea82ba87213",
     "url": "/texters/index.html"
   },
   {
-    "revision": "7fe05f6631eff965e61f",
+    "revision": "f3e48589b619e1e8fd33",
     "url": "/texters/static/css/main.96f5226e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/texters/static/js/3.13844b13.chunk.js"
   },
   {
-    "revision": "7fe05f6631eff965e61f",
-    "url": "/texters/static/js/main.d30b0737.chunk.js"
+    "revision": "f3e48589b619e1e8fd33",
+    "url": "/texters/static/js/main.f4c277f5.chunk.js"
   },
   {
     "revision": "d06ce340c3e9bac384c2",
