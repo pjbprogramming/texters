@@ -28,7 +28,6 @@ export default function TextForm(props) {
   const removeExtaSpaces=()=>{
 
     let newText= text.split(/[ ]+/);
-  console.log('The new text is : '+newText);
   setText(newText.join(" "));
   }
   return( <>

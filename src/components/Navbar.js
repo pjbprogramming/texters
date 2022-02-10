@@ -6,7 +6,7 @@ export default function Navbar(props) {
   
     <nav className="navbar navbar-expand-lg navbar-light mx-1 my-1  " style={{backgroundColor: props.view_mode==='light'?'#e8e1bcdb':'#aa6c1f', borderRadius: 12}}>
     <div className="container-fluid  "  >
-      <a className="navbar-brand" href="/" >{props.title} <img src='/favicon-32x32.png' alt=""/></a>
+      <a className="navbar-brand" href="/" >{props.title} <img src='./favicon-32x32.png' alt=""/></a>
       <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span className="navbar-toggler-icon"></span>
       </button>
