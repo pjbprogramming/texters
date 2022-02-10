@@ -34,7 +34,7 @@ else{
 }
   return (
  <>
- <Navbar title="Texter" link1="Home" link2="AboutUs9"  view_mode={mode} toggle_mode={toggle_Mode} swtclr={swtchcolor}/>
+ <Navbar title="Texter" link1="Home" link2="AboutUs"  view_mode={mode} toggle_mode={toggle_Mode} swtclr={swtchcolor}/>
 <TextForm swtclr={swtchcolor}/>
  </>
   );
